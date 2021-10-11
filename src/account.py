@@ -6,7 +6,7 @@ class Account:
         self.balance = balance
 
     # write methods here
-    def balance(self):
+    def balance_left(self):
         return self.balance
 
     def deposit(self,amount):
